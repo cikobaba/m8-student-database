@@ -42,3 +42,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# Compiled Java files
+*.class
+src/out/
